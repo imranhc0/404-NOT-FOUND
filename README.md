@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://mohammadimran-h90.github.io/404-NOT-FOUND">
+    <a href="https://404-not-found-app.netlify.app/">
       Solution
     </a>
     <span> | </span>
@@ -49,6 +49,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://imran.me)
-- GitHub [@your-username](https://github.com/mohammadimran-h90)
-- Twitter [@your-linkedin](https://twitter.com/your-username)
+- Website [imran.me](https://imran.me)
+- GitHub [@mohammadimran-h90](https://github.com/mohammadimran-h90)
+- Twitter [@imranhossen07](https://www.linkedin.com/in/imranhossen07/)
